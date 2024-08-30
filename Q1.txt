@@ -1,0 +1,9 @@
+Describe the main difference between the CSS Flex-box layout model and the CSS Grid layout model. When would you choose to use one over the other?
+
+Answer:-1.	
+
+Flex-box: The Flex-box is a box model designed for user interfaces, and it allows users to align and distribute space among items in a container such that elements behave predictably when the page layout must accommodate different, unknown screen sizes. A flex container expands items to fill available space and shrinks them to prevent overflow. 
+The flex-box can be used by setting the display property to flex i.e. display: flex
+
+Grid: A grid container is an HTML element that defines a grid layout. To control the layout of the grid items within the container, various CSS properties can be applied to the container itself. The most commonly used properties for styling a grid container. 
+Display property is set to "grid" to define the container as a grid container. Its initial value is block.

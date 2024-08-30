@@ -1,0 +1,34 @@
+Explain the role of the following key properties in the flexbox layout model.
+
+1.	Justify-content
+2.	Align-items
+3.	Gap
+4.	Flex-direction
+5.	Flex-wrap
+
+ANSWER:
+
+
+1. Justify-content:
+ (default value - stretch)
+It controls how the grid columns are arranged along the inline axis (left to right) i.e. horizontally. Let's consider below HTML page,
+
+
+2. Align-items: (default value - stretch) 
+This property allows us to set the default way of aligning each item in their respective grid cells along the block 
+direction (top to bottom).
+
+
+3.Gap: The gap property defines the size of the gap between the rows and between the columns in flexbox, grid or multi-column layout. It is a shorthand for the following properties:
+•row-gap
+•column-gap
+Note: The gap property was formerly known as grid-gap.
+
+
+4.Flex-direction: The flex-direction property specifies the direction of the flexible items.
+Note: If the element is not a flexible item, the flex-direction property has no effect.
+
+
+5. Flex-wrap: The flex-wrap property specifies whether the flexible items should wrap or not.
+Note: If the elements are not flexible items, the flex-wrap property has no effect
+
